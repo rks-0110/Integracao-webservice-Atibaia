@@ -176,20 +176,20 @@ ___
 ___ -->
 
 ## Atualizações
-### ***Anterior***
+### *Anterior*
 Seguindo o material disponível no [site da prefeitura](https://www.atibaia.sp.gov.br/#) e dentro do sistema, inicialmente foram feitos testes de requisição no [Postman](https://www.postman.com/), em seguida tentou-se explorar a possibilidade de se fazer a integração com [Python](https://www.python.org/).
-### ***07/03/2023***
+### *07/03/2023*
 Iniciou-se o desenvolvimento do projeto em java devido a maior facilidade que seria implementar com o sistema.  
 Utilizando [NetBeans IDE](https://netbeans.apache.org/).  
 Em testes subsequentes foi comum enfrentar alguns [erros](#erros) recorrentes.  
-### ***10/03/2023***
+### *10/03/2023*
 Projeto de envio de NFSe funcionando.
-### ***13/03/2023***
+### *13/03/2023*
 Problemas ao tentar implementar o cancelamento de NFSe.
-### ***14/03/2023***
+### *14/03/2023*
 Projeto separado em duas aplicações java diferentes Enviar e Cancelar.  
 Após 08:22 (último teste bem sucedido) o webservice ficou em provavel manutenção pelo resto do dia.
-### ***15/03/2023***
+### *15/03/2023*
 Retorno do [suporte do provedor](tributos@presconinformatica.com.br) informando que uma correção havia sido efetuada.  
 Projeto foi concluído, compilação bem sucedida e teste com conexão remota no cliente também com resultados positivos.  
 
