@@ -60,8 +60,8 @@ ___
 ## Recursos
 - A linguagem utilizada foi Java, para integração mais fácil com o sistema da empresa. ([NetBeans](https://netbeans.apache.org/) IDE 16).
 - Para efeito de testes de requisição foi usilizado também o [PostMan](https://www.postman.com/).
-- O WebService utilizado é próprio da prefeitura `http://ws.prefeituradeatibaia.com.br/WSNfses/nfseresources/ws/v2/emissao`.
-- O WebService utilizado é próprio da prefeitura `http://ws.prefeituradeatibaia.com.br/WSNfses/nfseresources/ws/v2/cancela`.
+- O WebService `http://ws.prefeituradeatibaia.com.br/WSNfses/nfseresources/ws/v2/emissao`.
+- O WebService `http://ws.prefeituradeatibaia.com.br/WSNfses/nfseresources/ws/v2/cancela`.
 
 [Voltar ao topo](#top)
 ___
