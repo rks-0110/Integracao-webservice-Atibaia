@@ -1,22 +1,17 @@
-
 <!--
-    Para melhor visualização do arquivo utilize:
-    (Ctrl + Shift + V) Visual Studio Code [app]
-    ou
-    (copiar e colar todo conteudo) https://markdownlivepreview.com/ 
- -->
-
 <a name="top"></a>
 
-# Integração Emissão de NFSe Atibaia | JK
-<center>
-[Português](./lang/README.pt.md)|[English](./lang/README.en.md)
-</center>
+# Integration Emission of NFSe Atibaia | JK
+
+[Português](https://github.com/rks-0110/Integracao-webservice-Atibaia/blob/main/lang/README.pt.md)
+|
+[English](https://github.com/rks-0110/Integracao-webservice-Atibaia/blob/main/lang/README.en.md)
+
 ___
 
-## Sumário
-- [Integração Emissão de NFSe Atibaia | JK](#integração-emissão-de-nfse-atibaia--jk)
-  - [Sumário](#sumário)
+## Summary
+- [Integration Emission of NFSe Atibaia | JK](#integration-emission-of-nfse-atibaia--jk)
+  - [Summary](#summary)
   - [Objetivos](#objetivos)
   - [Recursos](#recursos)
   - [Prefeitura](#prefeitura)
@@ -52,7 +47,7 @@ ___
 
 ___
 
-## Objetivos
+## Objectives
 
 - [x] Enviar arquivo .xml para emissão de Nota Fiscal de Serviço Eletrônica (NFSe);
 - [x] Receber .xml de retorno e código de verificação da nota;
@@ -177,7 +172,7 @@ ___
 
 <!-- ## Erros
 
-___ -->
+___ --><!--
 
 ## Atualizações
 ### ***Anterior***
@@ -198,4 +193,4 @@ Retorno do [suporte do provedor](tributos@presconinformatica.com.br) informando 
 Projeto foi concluído, compilação bem sucedida e teste com conexão remota no cliente também com resultados positivos.  
 
 [Voltar ao topo](#top)
-
+-->
