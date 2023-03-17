@@ -10,9 +10,15 @@
 
 # Integração Emissão de NFSe Atibaia | JK
 
-[Português](https://github.com/rks-0110/Integracao-webservice-Atibaia/blob/main/lang/README.pt.md)
-|
-[English](https://github.com/rks-0110/Integracao-webservice-Atibaia/blob/main/lang/README.en.md)
+<p align="center">
+    <a href="https://github.com/rks-0110/Integracao-webservice-Atibaia/blob/main/lang/README.en.md">
+      English
+    </a>
+    |
+    <a href="https://github.com/rks-0110/Integracao-webservice-Atibaia/blob/main/lang/README.pt.md">
+      Português-BR
+    </a>    
+</p>
 
 ___
 
