@@ -15,7 +15,7 @@
       English
     </a>
     |
-    <a href="https://github.com/rks-0110/Integracao-webservice-Atibaia/blob/main/lang/README.pt.md">
+    <a href="https://github.com/rks-0110/Integracao-webservice-Atibaia/blob/main/README.md">
       Português-BR
     </a>    
 </p>
